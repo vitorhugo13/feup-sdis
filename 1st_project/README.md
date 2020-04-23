@@ -8,5 +8,5 @@
 For organizational reasons, the documents **report.pdf** and **README.txt** are present in the *docs* folder.
 
 You can also consult them by **clicking** on the following links:
-* [**report**](https://git.fe.up.pt/up201706403/sdis1920-t6g12/-/blob/master/docs/report.pdf)
-* [**README**](https://git.fe.up.pt/up201706403/sdis1920-t6g12/-/blob/master/docs/README.txt)
+* [**report**](https://github.com/vitorhugo13/feup-sdis/blob/master/1st_project/docs/report.pdf)
+* [**README**](https://github.com/vitorhugo13/feup-sdis/blob/master/1st_project/docs/README.txt)
