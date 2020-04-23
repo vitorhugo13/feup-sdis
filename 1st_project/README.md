@@ -1,4 +1,4 @@
-# SDIS - sdis1920-t6g12
+# SDIS - First Assignment
 * Distributed Backup Service
 
 ## Info
