@@ -1,4 +1,4 @@
-# SDIS - sdis1920-t6g12
+# SDIS - FEUP
 Repository of code developed for the course SDIS (Distributed Systems) at FEUP
 
 ## Info
