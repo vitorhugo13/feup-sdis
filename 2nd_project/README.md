@@ -5,8 +5,8 @@
 * The description of the first assignment is available [here](https://paginas.fe.up.pt/~pfs/aulas/sd2020/projs/proj2/proj2.html).
 
 ## Contributors
-* **[Bruno Micaelo]()
-* **[Mariana Neto]()
+* **[Bruno Micaelo]()**
+* **[Mariana Neto]()**
 * **[Vítor Gonçalves](https://github.com/vitorhugo13)**
 * **[Vítor Ventuzelos](https://github.com/BerserkingIdiot)**
 
