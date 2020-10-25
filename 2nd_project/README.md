@@ -6,7 +6,7 @@
 
 ## Contributors
 * **[Bruno Micaelo](https://github.com/BrunoFCM)**
-* **[Mariana Neto]()**
+* **[Mariana Neto](https://github.com/bluediberry)**
 * **[Vítor Gonçalves](https://github.com/vitorhugo13)**
 * **[Vítor Ventuzelos](https://github.com/BerserkingIdiot)**
 
