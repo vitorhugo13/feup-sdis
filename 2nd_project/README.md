@@ -1,11 +1,15 @@
-# SDIS - sdis1920-t6g23
-Repository of code developed for the second SDIS (Distributed Systems) project at FEUP
+# SDIS - Second Assignment
+* Distributed Backup Service for the Internet
 
 ## Info
-* **Date** : 3rd Year, 2nd Semester, 2019/2020
-* **Course** : [Sistemas Distribuídos](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436451) | [Distributed Systems](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436451) (SDIS)
-* **Assignment** : Project description available [here](https://paginas.fe.up.pt/~pfs/aulas/sd2020/projs/proj2/proj2.html).
-* **Contributors** : [Bruno Micaelo](), [Mariana Neto](), [Vítor Gonçalves](https://github.com/vitorhugo13), [Vítor Ventuzelos](https://github.com/BerserkingIdiot)
+* The description of the first assignment is available [here](https://paginas.fe.up.pt/~pfs/aulas/sd2020/projs/proj2/proj2.html).
+
+## Contributors
+* **[Bruno Micaelo]()
+* **[Mariana Neto]()
+* **[Vítor Gonçalves](https://github.com/vitorhugo13)**
+* **[Vítor Ventuzelos](https://github.com/BerserkingIdiot)**
+
 
 **COMPILING**: <br>javac *.java
 
