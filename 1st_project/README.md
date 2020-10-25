@@ -3,7 +3,9 @@
 
 ## Info
 * The description of the first assignment is available [here](https://paginas.fe.up.pt/~pfs/aulas/sd2020/projs/proj1/proj1.html).
-
+## Contributors
+* **[Vítor Gonçalves]()**
+* **[Vítor Ventuzelos]()**
 ## Note
 For organizational reasons, the documents **report.pdf** and **README.txt** are present in the *docs* folder.
 
